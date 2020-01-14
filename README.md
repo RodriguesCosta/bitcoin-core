@@ -13,7 +13,7 @@ A modern Bitcoin Core REST and RPC client to execute administrative tasks, [mult
 Install the package via `yarn`:
 
 ```sh
-yarn add bitcoin-core
+yarn add bitcoin-core-fork
 ```
 
 or via `npm`:
@@ -21,7 +21,7 @@ or via `npm`:
 Install the package via `npm`:
 
 ```sh
-npm install bitcoin-core --save
+npm install bitcoin-core-fork --save
 ```
 
 ## Usage
