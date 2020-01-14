@@ -1,3 +1,7 @@
+# bitcoin-core-fork
+# Attention
+This package is a bitcoin-core fork, it was made because I needed to get the newer methods of the latest versions faster, please make sure the original package has been updated before using this one.
+
 # bitcoin-core
 A modern Bitcoin Core REST and RPC client to execute administrative tasks, [multiwallet](https://bitcoincore.org/en/2017/09/01/release-0.15.0/#multiwallet) operations and queries about network and the blockchain.
 
